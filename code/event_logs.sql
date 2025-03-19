@@ -1,3 +1,5 @@
+CREATE DATABASE IF NOT EXISTS event_logs;
+
 CREATE TABLE IF NOT EXISTS user_events (
     event_date  DATE, 
     timestamp   BIGINT, 
