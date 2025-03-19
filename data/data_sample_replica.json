@@ -1,0 +1,47 @@
+{
+  "event_date": "20240902",
+  "event_timestamp": "1725320233294356",
+  "event_name": "trial_started",
+  "event_params": [
+    {
+      "key": "transaction_id",
+      "value": { "string_value": "GPA.3302-0831-2930-60913" }
+    }
+  ],
+  "event_bundle_sequence_id": "1805720084",
+  "user_id": "QON_cbfd3a40e9ff440cbfa600c6f40d79cc",
+  "user_pseudo_id": "e009e5fae5a12fe753b93569232f9e59",
+  "privacy_info": { "uses_transient_token": "No" },
+  "user_properties": [
+    {
+      "key": "user_id",
+      "value": {
+        "string_value": "QON_cbfd3a40e9ff440cbfa600c6f40d79cc",
+        "set_timestamp_micros": "0"
+      }
+    }
+  ],
+  "user_first_touch_timestamp": "1725320179786000",
+  "device": {
+    "category": "mobile",
+    "operating_system": "Android",
+    "operating_system_version": "Android",
+    "is_limited_ad_tracking": "No"
+  },
+  "geo": {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "continent": "(not set)",
+    "region": "",
+    "sub_continent": "(not set)",
+    "metro": "(not set)"
+  },
+  "app_info": {
+    "id": "com.weather.radar.cnews",
+    "firebase_app_id": "1:46551157:android:a56febedd359c"
+  },
+  "stream_id": "8040974674",
+  "platform": "ANDROID",
+  "items": [],
+  "batch_event_index": "1"
+}

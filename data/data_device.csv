@@ -1,0 +1,1402 @@
+device.category,device.mobile_brand_name,device.mobile_marketing_name,device.operating_system,device.operating_system_version
+tablet,Samsung,Galaxy Tab A7 10.4 (2020),Android,Android 12
+tablet,Honor,Pad X8,Android,Android 12
+tablet,Honor,Pad X9,Android,Android 13
+tablet,Samsung,Galaxy Tab S9 Ultra,Android,Android 14
+tablet,Alcatel,3T 8,Android,Android 10
+tablet,Samsung,Galaxy Tab S8+,Android,Android 14
+tablet,itel,Prime Tab 1,Android,Android 10
+tablet,Samsung,Galaxy Tab A7 10.4 (2020),Android,Android 12
+tablet,Samsung,Galaxy Tab S9 FE+,Android,Android 14
+tablet,Samsung,Galaxy Tab A9,Android,Android 14
+tablet,Samsung,Galaxy Tab A9+,Android,Android 14
+tablet,Huawei,Mediapad T5,Android,Android 8.0.0
+tablet,Lenovo,Tab V7,Android,Android 9
+tablet,Lenovo,TAB M8 Gen 4,Android,Android 13
+tablet,Alldocube,Smile 1,Android,Android 14
+tablet,Lenovo,Tab M8 (2nd Gen),Android,Android 10
+tablet,ZTE,Blade X10s,Android,Android 12
+tablet,Samsung,Galaxy Tab S9 FE,Android,Android 14
+tablet,Honor,Pad X8 Pro,Android,Android 13
+tablet,Samsung,Galaxy Tab A 10.1 (2019),Android,Android 11
+tablet,Samsung,Galaxy Tab S9,Android,Android 14
+tablet,Lenovo,Tab M8 (2nd Gen),Android,Android 10
+tablet,Honor,Pad 9,Android,Android 14
+tablet,Samsung,Galaxy Tab A9+,Android,Android 14
+tablet,Samsung,Galaxy Tab S6 Lite (2024),Android,Android 14
+tablet,Samsung,Galaxy Tab S9,Android,Android 14
+tablet,Huawei,MediaPad M5 Lite 8.0,Android,Android 9
+tablet,Samsung,Galaxy Tab A8 10.5,Android,Android 14
+tablet,Tecno,DroiPad 7D,Android,Android 7.0
+tablet,Samsung,Galaxy Tab A9,Android,Android 14
+tablet,Huawei,MediaPad T3 8.0,Android,Android 7.0
+tablet,Samsung,Galaxy Tab A9,Android,Android 13
+mobile,Samsung,Galaxy Note10+,Android,Android 11
+mobile,Samsung,Galaxy A03s,Android,Android 11
+mobile,Samsung,Galaxy A51 5G,Android,Android 11
+mobile,Samsung,Galaxy A51 5G,Android,Android 13
+mobile,Tecno,Spark Go 2024,Android,Android 13
+mobile,Samsung,Galaxy Note10+,Android,Android 10
+mobile,Infinix,Smart 8,Android,Android 14
+mobile,Samsung,Galaxy A04,Android,Android 12
+mobile,Tecno,Spark 20C,Android,Android 13
+mobile,Samsung,Galaxy Note10+,Android,Android 12
+mobile,Samsung,Galaxy Note10+,Android,Android 9
+mobile,Samsung,Galaxy A70,Android,Android 9
+mobile,Samsung,Galaxy A03s,Android,Android 12
+mobile,Huawei,P20 Lite,Android,Android 9
+mobile,Huawei,P20 Lite,Android,Android 8.0.0
+mobile,Xiaomi,Redmi Note 12S,Android,Android 14
+mobile,Samsung,Galaxy A70,Android,Android 11
+mobile,Xiaomi,Redmi Note 12S,Android,Android 13
+mobile,Samsung,Galaxy A04,Android,Android 14
+mobile,Samsung,Galaxy A03s,Android,Android 13
+mobile,Samsung,Galaxy A70,Android,Android 10
+mobile,Realme,C61,Android,Android 14
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 7.0
+mobile,Infinix,Smart 8,Android,Android 13
+mobile,Realme,C55,Android,Android 14
+mobile,Realme,C55,Android,Android 13
+mobile,Samsung,Galaxy A23,Android,Android 12
+mobile,Samsung,Galaxy A23,Android,Android 14
+mobile,Samsung,Galaxy A23,Android,Android 13
+mobile,Vivo,V40 Pro,Android,Android 15
+mobile,Vivo,V40 Pro,Android,Android 14
+mobile,OPPO,A60,Android,Android 14
+mobile,Samsung,Galaxy A51 5G,Android,Android 12
+mobile,OnePlus,Nord,Android,Android 12
+mobile,OnePlus,Nord,Android,Android 11
+mobile,Samsung,Galaxy S10,Android,Android 10
+mobile,Samsung,Galaxy S10,Android,Android 12
+mobile,Samsung,Galaxy A13 5G,Android,Android 12
+mobile,Samsung,Galaxy A13 5G,Android,Android 14
+mobile,Samsung,Galaxy A13 5G,Android,Android 13
+mobile,Xiaomi,Redmi 13C,Android,Android 14
+mobile,Xiaomi,Redmi 13C,Android,Android 13
+mobile,Samsung,Galaxy A51 5G,Android,Android 10
+mobile,Samsung,Galaxy S24+,Android,Android 14
+mobile,Samsung,Galaxy F13,Android,Android 12
+mobile,Samsung,Galaxy F13,Android,Android 14
+mobile,Samsung,Galaxy F13,Android,Android 13
+mobile,Xiaomi,Redmi Note 12 Explorer,Android,Android 12
+mobile,Xiaomi,Redmi Note 12 Explorer,Android,Android 14
+mobile,Xiaomi,Redmi Note 12 Explorer,Android,Android 13
+mobile,Xiaomi,Redmi 12 5G,Android,Android 14
+mobile,Xiaomi,Redmi 12 5G,Android,Android 13
+mobile,Tecno,Camon 19,Android,Android 12
+mobile,Tecno,Camon 19,Android,Android 13
+mobile,Realme,C53,Android,Android 14
+mobile,Realme,C53,Android,Android 13
+mobile,OPPO,A5s,Android,Android 8.1.0
+mobile,Samsung,Galaxy F54 5G,Android,Android 14
+mobile,Samsung,Galaxy F54 5G,Android,Android 13
+mobile,Samsung,Galaxy A33,Android,Android 12
+mobile,Samsung,Galaxy A33,Android,Android 14
+mobile,Samsung,Galaxy A33,Android,Android 13
+mobile,Tecno,Pova 6 Pro,Android,Android 14
+mobile,Samsung,Galaxy A31,Android,Android 10
+mobile,Samsung,Galaxy A31,Android,Android 12
+mobile,Samsung,Galaxy A31,Android,Android 11
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 14
+mobile,Samsung,Galaxy Note10 5G,Android,Android 11
+mobile,Realme,C25s,Android,Android 12
+mobile,Realme,C25s,Android,Android 11
+mobile,Realme,C25s,Android,Android 13
+mobile,Samsung,Galaxy A15 5G,Android,Android 14
+mobile,Samsung,Galaxy S21+ 5G,Android,Android 12
+mobile,Samsung,Galaxy S21+ 5G,Android,Android 14
+mobile,Samsung,Galaxy S21+ 5G,Android,Android 11
+mobile,Samsung,Galaxy S21+ 5G,Android,Android 13
+mobile,Realme,C65 5G,Android,Android 14
+mobile,OnePlus,Nord,Android,Android 12
+mobile,OnePlus,Nord,Android,Android 11
+mobile,Samsung,Galaxy Note10 5G,Android,Android 12
+mobile,Samsung,Galaxy A04,Android,Android 13
+mobile,Samsung,Galaxy S22,Android,Android 12
+mobile,Samsung,Galaxy S22,Android,Android 14
+mobile,Samsung,Galaxy S22,Android,Android 13
+mobile,Samsung,Galaxy Z Flip 5,Android,Android 14
+mobile,Samsung,Galaxy Z Flip 5,Android,Android 13
+mobile,Honor,X9a,Android,Android 12
+mobile,Honor,X9a,Android,Android 13
+mobile,Samsung,Galaxy A51,Android,Android 10
+mobile,Samsung,Galaxy A51,Android,Android 12
+mobile,Samsung,Galaxy A51,Android,Android 11
+mobile,Samsung,Galaxy A51,Android,Android 13
+mobile,Realme,9i,Android,Android 12
+mobile,Samsung,Galaxy S10+,Android,Android 10
+mobile,Samsung,Galaxy S10+,Android,Android 12
+mobile,Samsung,Galaxy S10+,Android,Android 9
+mobile,Samsung,Galaxy S10+,Android,Android 11
+mobile,Samsung,Galaxy S8+,Android,Android 8.0.0
+mobile,Samsung,Galaxy S8+,Android,Android 9
+mobile,Samsung,Galaxy A32,Android,Android 12
+mobile,Samsung,Galaxy A32,Android,Android 11
+mobile,Samsung,Galaxy A32,Android,Android 13
+mobile,Samsung,Galaxy S23 Ultra,Android,Android 14
+mobile,Samsung,Galaxy S23 Ultra,Android,Android 13
+mobile,Samsung,Galaxy S23 FE,Android,Android 14
+mobile,Samsung,M13 5G,Android,Android 13
+mobile,Realme,9i,Android,Android 13
+mobile,Samsung,Galaxy Note10+ 5G,Android,Android 12
+mobile,Samsung,Galaxy S20 5G,Android,Android 11
+mobile,Samsung,Galaxy S20 5G,Android,Android 13
+mobile,Huawei,P30,Android,Android 10
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 12
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 14
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 13
+mobile,Samsung,Galaxy A34,Android,Android 14
+mobile,Xiaomi,14,Android,Android 15
+mobile,Xiaomi,14,Android,Android 14
+mobile,Tecno,Camon 20,Android,Android 14
+mobile,Samsung,Galaxy Note9,Android,Android 9
+mobile,Samsung,Galaxy A35,Android,Android 14
+mobile,Samsung,Galaxy S23,Android,Android 14
+mobile,Samsung,Galaxy S23,Android,Android 13
+mobile,Samsung,Galaxy Note20 5G,Android,Android 12
+mobile,Samsung,Galaxy Note20 5G,Android,Android 11
+mobile,Samsung,Galaxy Note20 5G,Android,Android 13
+mobile,Infinix,Zero 30,Android,Android 14
+mobile,Infinix,Zero 30,Android,Android 13
+mobile,Infinix,Note 12 VIP,Android,Android 12
+mobile,Samsung,Galaxy A9 2018,Android,Android 10
+mobile,Samsung,Galaxy Note9,Android,Android 10
+mobile,Samsung,Galaxy Note9,Android,Android 8.1.0
+mobile,Tecno,Camon 20,Android,Android 13
+mobile,OPPO,A38,Android,Android 14
+mobile,OPPO,A38,Android,Android 13
+mobile,Samsung,Galaxy S23 FE,Android,Android 14
+mobile,Xiaomi,Redmi Note 13 Pro+,Android,Android 14
+mobile,Xiaomi,Redmi Note 13 Pro+,Android,Android 13
+mobile,Samsung,Galaxy M11,Android,Android 10
+mobile,Samsung,Galaxy M11,Android,Android 12
+mobile,Samsung,Galaxy M11,Android,Android 11
+mobile,OnePlus,Nord 4,Android,Android 14
+mobile,Samsung,M13 5G,Android,Android 12
+mobile,Samsung,M13 5G,Android,Android 14
+mobile,Samsung,Galaxy Note10+,Android,Android 12
+mobile,Samsung,Galaxy Z Flip3 5G,Android,Android 13
+mobile,Samsung,Galaxy Z Fold2 5G,Android,Android 13
+mobile,Samsung,Galaxy A13,Android,Android 12
+mobile,Samsung,Galaxy A13,Android,Android 14
+mobile,Samsung,Galaxy A13,Android,Android 13
+mobile,OnePlus,Nord CE 5G,Android,Android 12
+mobile,OnePlus,Nord CE 5G,Android,Android 11
+mobile,OnePlus,Nord CE 5G,Android,Android 13
+mobile,Samsung,Galaxy S8+,Android,Android 8.0.0
+mobile,Samsung,Galaxy S8+,Android,Android 7.0
+mobile,Samsung,Galaxy S8+,Android,Android 9
+mobile,Samsung,Galaxy Note10+,Android,Android 10
+mobile,Samsung,Galaxy Z Flip3 5G,Android,Android 11
+mobile,Samsung,Galaxy Note10+,Android,Android 9
+mobile,Samsung,Galaxy Note10+,Android,Android 11
+mobile,Huawei,nova 3i,Android,Android 9
+mobile,Huawei,P-Smart+,Android,Android 8.1.0
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 12
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 14
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 13
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 15
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 14
+mobile,Samsung,Galaxy A25,Android,Android 14
+mobile,Samsung,Galaxy A34,Android,Android 14
+mobile,Samsung,Galaxy A34,Android,Android 13
+mobile,Vivo,Y200e,Android,Android 14
+mobile,OPPO,A92,Android,Android 11
+mobile,OPPO,F23 5G,Android,Android 14
+mobile,OPPO,F23 5G,Android,Android 13
+mobile,Vivo,Y75 5G,Android,Android 14
+mobile,Tecno,SPARK 20 Pro,Android,Android 13
+mobile,Samsung,Galaxy A52s 5G,Android,Android 12
+mobile,Samsung,Galaxy A52s 5G,Android,Android 14
+mobile,Samsung,Galaxy A52s 5G,Android,Android 11
+mobile,Samsung,Galaxy A52s 5G,Android,Android 13
+mobile,Samsung,Galaxy A12,Android,Android 10
+mobile,Samsung,Galaxy A12,Android,Android 12
+mobile,Samsung,Galaxy A12,Android,Android 11
+mobile,OPPO,A17,Android,Android 12
+mobile,Samsung,Galaxy A15 5G,Android,Android 14
+mobile,Xiaomi,Redmi Note 13 Pro 4G,Android,Android 14
+mobile,Xiaomi,Redmi Note 13 Pro 4G,Android,Android 13
+mobile,Xiaomi,Redmi 12C,Android,Android 12
+mobile,Xiaomi,Redmi 12C,Android,Android 14
+mobile,Xiaomi,Redmi 12C,Android,Android 13
+mobile,Samsung,Galaxy A03,Android,Android 12
+mobile,Samsung,Galaxy A03,Android,Android 11
+mobile,Samsung,Galaxy A03,Android,Android 13
+mobile,Samsung,Galaxy Z Flip3 5G,Android,Android 12
+mobile,Samsung,Galaxy Z Flip3 5G,Android,Android 14
+mobile,OnePlus,11 5G,Android,Android 15
+mobile,Samsung,Galaxy A24 4G,Android,Android 13
+mobile,Samsung,Galaxy S23,Android,Android 14
+mobile,Samsung,Galaxy S23,Android,Android 13
+mobile,Xiaomi,Redmi Note 13 Pro,Android,Android 14
+mobile,Xiaomi,Redmi Note 13 Pro,Android,Android 13
+mobile,Samsung,Galaxy A5 (2017),Android,Android 8.0.0
+mobile,Samsung,Galaxy A5 (2017),Android,Android 7.0
+mobile,Motorola,moto g53 5G,Android,Android 14
+mobile,Motorola,moto g53 5G,Android,Android 13
+mobile,OnePlus,9R,Android,Android 14
+mobile,OnePlus,9R,Android,Android 11
+mobile,OnePlus,9R,Android,Android 13
+mobile,Samsung,Galaxy A24 4G,Android,Android 14
+mobile,OnePlus,11 5G,Android,Android 14
+mobile,OnePlus,11 5G,Android,Android 13
+mobile,Samsung,Galaxy A03,Android,Android 12
+mobile,Samsung,Galaxy A03,Android,Android 11
+mobile,Samsung,Galaxy A03,Android,Android 13
+mobile,Samsung,Galaxy A21s,Android,Android 10
+mobile,Samsung,Galaxy A21s,Android,Android 12
+mobile,Samsung,Galaxy A21s,Android,Android 11
+mobile,Samsung,Galaxy A54,Android,Android 14
+mobile,Samsung,Galaxy A54,Android,Android 13
+mobile,Realme,5i,Android,Android 10
+mobile,Tecno,Spark 9T,Android,Android 12
+mobile,Infinix,Hot 40i,Android,Android 13
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 14
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 13
+mobile,Samsung,Galaxy A15 5G,Android,Android 14
+mobile,Sony,Xperia 1 II,Android,Android 12
+mobile,Samsung,Galaxy S20+,Android,Android 10
+mobile,Samsung,Galaxy S20+,Android,Android 12
+mobile,Samsung,Galaxy S20+,Android,Android 13
+mobile,Samsung,Galaxy S10 5G,Android,Android 12
+mobile,Samsung,Galaxy S10 5G,Android,Android 9
+mobile,Samsung,Galaxy S10 5G,Android,Android 11
+mobile,Samsung,Galaxy S8,Android,Android 9
+mobile,Samsung,Galaxy A02,Android,Android 10
+mobile,Samsung,Galaxy A02,Android,Android 11
+mobile,Samsung,Galaxy A32,Android,Android 12
+mobile,Samsung,Galaxy A32,Android,Android 11
+mobile,Samsung,Galaxy A32,Android,Android 13
+mobile,Samsung,Galaxy S9,Android,Android 10
+mobile,Infinix,Note 30,Android,Android 14
+mobile,Infinix,Note 30,Android,Android 13
+mobile,Samsung,Galaxy Z Fold2 5G,Android,Android 12
+mobile,Samsung,Galaxy Z Fold2 5G,Android,Android 13
+mobile,itel,P55,Android,Android 13
+mobile,OPPO,Reno5 4G,Android,Android 12
+mobile,Samsung,Galaxy Z Flip6,Android,Android 14
+mobile,OPPO,Reno11,Android,Android 15
+mobile,OPPO,Reno11,Android,Android 14
+mobile,Xiaomi,Redmi 10 5G,Android,Android 12
+mobile,Xiaomi,Redmi 10 5G,Android,Android 14
+mobile,Xiaomi,Redmi 10 5G,Android,Android 13
+mobile,Samsung,Galaxy A30s,Android,Android 10
+mobile,Samsung,Galaxy A30s,Android,Android 9
+mobile,Samsung,Galaxy A30s,Android,Android 11
+mobile,Samsung,Galaxy A13,Android,Android 12
+mobile,Samsung,Galaxy A13,Android,Android 14
+mobile,Samsung,Galaxy A13,Android,Android 13
+mobile,Samsung,Galaxy M31,Android,Android 11
+mobile,OPPO,Reno5 4G,Android,Android 13
+mobile,Samsung,Galaxy A70s,Android,Android 11
+mobile,Xiaomi,Redmi 9C,Android,Android 10
+mobile,Xiaomi,Redmi 9C,Android,Android 11
+mobile,Vivo,Y21,Android,Android 12
+mobile,Vivo,Y21,Android,Android 11
+mobile,Samsung,Galaxy A9 2018,Android,Android 8.0.0
+mobile,Samsung,Galaxy A9 2018,Android,Android 10
+mobile,Samsung,Galaxy A9 2018,Android,Android 9
+mobile,Samsung,Galaxy S10e,Android,Android 12
+mobile,Infinix,Hot 30 Play NFC,Android,Android 13
+mobile,Samsung,Galaxy A54,Android,Android 14
+mobile,Vivo,V27e,Android,Android 15
+mobile,Vivo,V27e,Android,Android 14
+mobile,Vivo,V27e,Android,Android 13
+mobile,Samsung,Galaxy S23,Android,Android 14
+mobile,Samsung,Galaxy S23,Android,Android 13
+mobile,OPPO,F25 Pro,Android,Android 15
+mobile,OPPO,F25 Pro,Android,Android 14
+mobile,OPPO,Reno10,Android,Android 14
+mobile,OPPO,Reno10,Android,Android 13
+mobile,OPPO,Reno8,Android,Android 12
+mobile,OPPO,Reno8,Android,Android 14
+mobile,OPPO,Reno8,Android,Android 13
+mobile,Samsung,Galaxy S22,Android,Android 13
+mobile,Samsung,Galaxy A54,Android,Android 13
+mobile,Xiaomi,Poco M6 Pro,Android,Android 14
+mobile,Xiaomi,Poco M6 Pro,Android,Android 13
+mobile,Samsung,Galaxy A52 4G,Android,Android 12
+mobile,Samsung,Galaxy A52 4G,Android,Android 14
+mobile,Samsung,Galaxy A52 4G,Android,Android 11
+mobile,Samsung,Galaxy A52 4G,Android,Android 13
+mobile,Samsung,Galaxy S23 Ultra,Android,Android 14
+mobile,Samsung,Galaxy S23 Ultra,Android,Android 13
+mobile,Samsung,Galaxy M31,Android,Android 10
+mobile,Samsung,Galaxy M31,Android,Android 12
+mobile,Samsung,Galaxy A22 5G,Android,Android 13
+mobile,Samsung,Galaxy A40,Android,Android 10
+mobile,Samsung,Galaxy A40,Android,Android 9
+mobile,Samsung,Galaxy A40,Android,Android 11
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 10
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 12
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 11
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 13
+mobile,OPPO,A77,Android,Android 12
+mobile,OPPO,A77,Android,Android 14
+mobile,OPPO,A77,Android,Android 13
+mobile,Samsung,Galaxy A22 5G,Android,Android 12
+mobile,Samsung,Galaxy A22 5G,Android,Android 11
+mobile,Samsung,Galaxy A15 5G,Android,Android 14
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 15
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 14
+mobile,OPPO,Reno5 Z,Android,Android 12
+mobile,OPPO,Reno5 Z,Android,Android 11
+mobile,OPPO,Reno5 Z,Android,Android 13
+mobile,Samsung,Galaxy S7 Edge,Android,Android 8.0.0
+mobile,Samsung,Galaxy S7 Edge,Android,Android 7.0
+mobile,Tecno,Spark 10 Pro,Android,Android 13
+mobile,Samsung,Galaxy A14 5G,Android,Android 14
+mobile,Samsung,Galaxy A14 5G,Android,Android 13
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 12
+mobile,Xiaomi,Redmi Note 13 Pro,Android,Android 13
+mobile,OPPO,A55s,Android,Android 12
+mobile,OPPO,A55s,Android,Android 11
+mobile,Vivo,Y02t,Android,Android 13
+mobile,Tecno,Spark 20,Android,Android 13
+mobile,Vivo,Y28 5G,Android,Android 14
+mobile,Vivo,Y28 5G,Android,Android 13
+mobile,Xiaomi,Poco X3 Pro,Android,Android 12
+mobile,Xiaomi,Poco X3 Pro,Android,Android 11
+mobile,Xiaomi,Poco X3 Pro,Android,Android 13
+mobile,Xiaomi,Redmi Note 11T 5G,Android,Android 11
+mobile,Xiaomi,Redmi Note 11T 5G,Android,Android 13
+mobile,Xiaomi,Redmi Note 13 Pro,Android,Android 14
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 11
+mobile,Samsung,Galaxy A33,Android,Android 12
+mobile,Samsung,Galaxy A33,Android,Android 14
+mobile,Samsung,Galaxy A33,Android,Android 13
+mobile,Samsung,Galaxy S24,Android,Android 14
+mobile,Samsung,Galaxy Note8,Android,Android 8.0.0
+mobile,Samsung,Galaxy Note8,Android,Android 9
+mobile,itel,P55 5G,Android,Android 13
+mobile,AT&T,Propel 5G,Android,Android 13
+mobile,Xiaomi,POCO M3,Android,Android 10
+mobile,Xiaomi,POCO M3,Android,Android 12
+mobile,Xiaomi,POCO M3,Android,Android 11
+mobile,Samsung,Galaxy A04s,Android,Android 14
+mobile,Samsung,Galaxy M53,Android,Android 13
+mobile,OnePlus,Nord CE 3 Lite,Android,Android 14
+mobile,OnePlus,Nord CE 3 Lite,Android,Android 13
+mobile,OPPO,F19 Pro Plus,Android,Android 12
+mobile,OPPO,F19 Pro Plus,Android,Android 13
+mobile,Samsung,Galaxy A04e,Android,Android 12
+mobile,Samsung,Galaxy A04e,Android,Android 14
+mobile,Samsung,Galaxy A04e,Android,Android 13
+mobile,Samsung,Galaxy A53 5G,Android,Android 12
+mobile,Samsung,Galaxy A53 5G,Android,Android 14
+mobile,Samsung,Galaxy A53 5G,Android,Android 13
+mobile,Samsung,Galaxy A04s,Android,Android 12
+mobile,Samsung,Galaxy M53,Android,Android 14
+mobile,Samsung,Galaxy A04s,Android,Android 13
+mobile,Realme,C33,Android,Android 12
+mobile,Realme,C21Y,Android,Android 11
+mobile,OnePlus,Nord CE4 Lite,Android,Android 15
+mobile,OnePlus,Nord CE4 Lite,Android,Android 14
+mobile,Nothing,Phone (2a),Android,Android 15
+mobile,Nothing,Phone (2a),Android,Android 14
+mobile,Samsung,Galaxy S23 FE,Android,Android 14
+mobile,Samsung,Galaxy S23 FE,Android,Android 13
+mobile,Samsung,Galaxy S22,Android,Android 12
+mobile,Samsung,Galaxy S22,Android,Android 14
+mobile,Xiaomi,Redmi Note 12 4G,Android,Android 14
+mobile,Samsung,Galaxy Note20 Ultra 5G,Android,Android 13
+mobile,Samsung,Galaxy Z Flip4,Android,Android 12
+mobile,Samsung,Galaxy Z Flip4,Android,Android 14
+mobile,Samsung,Galaxy Z Flip4,Android,Android 13
+mobile,Samsung,Galaxy S22+,Android,Android 12
+mobile,Samsung,Galaxy S22+,Android,Android 14
+mobile,Samsung,Galaxy S22+,Android,Android 13
+mobile,Samsung,Galaxy A13,Android,Android 12
+mobile,Samsung,Galaxy A13,Android,Android 14
+mobile,Samsung,Galaxy A13,Android,Android 13
+mobile,Xiaomi,Redmi Note 12 4G,Android,Android 15
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 13
+mobile,Xiaomi,Redmi Note 12 4G,Android,Android 13
+mobile,Samsung,Galaxy A32 5G,Android,Android 12
+mobile,Samsung,Galaxy A32 5G,Android,Android 11
+mobile,Samsung,Galaxy A32 5G,Android,Android 13
+mobile,Samsung,Galaxy A35,Android,Android 14
+mobile,Samsung,Galaxy A15,Android,Android 14
+mobile,Samsung,Galaxy S20 5G,Android,Android 10
+mobile,Samsung,Galaxy S20 5G,Android,Android 12
+mobile,Samsung,Galaxy S20 5G,Android,Android 11
+mobile,Samsung,Galaxy S20 5G,Android,Android 13
+mobile,Samsung,Galaxy M53,Android,Android 12
+mobile,Samsung,Galaxy On6,Android,Android 10
+mobile,Tecno,Pop 5 LTE,Android,Android 11
+mobile,Nuu,B20 5G,Android,Android 12
+mobile,Huawei,Mate 20 Lite,Android,Android 10
+mobile,LG,G5,Android,Android 8.0.0
+mobile,Huawei,Honor 5A,Android,Android 6.0
+mobile,Samsung,Galaxy A80,Android,Android 11
+mobile,OPPO,K9x,Android,Android 13
+mobile,OPPO,F5,Android,Android 7.1.1
+mobile,Tecno,Spark 7,Android,Android 11
+mobile,Lenovo,Vibe K6,Android,Android 7.0
+mobile,ZTE,Blade V Smart,Android,Android 9
+mobile,Wiko,Power U10,Android,Android 11
+mobile,LG,G5,Android,Android 7.0
+mobile,Huawei,P9 Standard Edition,Android,Android 7.0
+mobile,Realme,GT Neo5 SE,Android,Android 14
+mobile,Huawei,Y7 Pro,Android,Android 8.1.0
+mobile,OnePlus,8 5G,Android,Android 11
+mobile,Alcatel,1S (2020),Android,Android 10
+mobile,Wiko,Harry 2,Android,Android 8.1.0
+mobile,Samsung,Galaxy Note 5,Android,Android 7.0
+mobile,ZTE,Blade V41 Smart,Android,Android 12
+mobile,LG,G5,Android,Android 7.0
+mobile,Vivo,X70,Android,Android 14
+mobile,Xiaomi,Redmi K60E,Android,Android 13
+mobile,ZTE,Red Magic 7 Pro,Android,Android 13
+mobile,Samsung,Galaxy A14,Android,Android 14
+mobile,OPPO,Reno10 Pro,Android,Android 13
+mobile,LG,X5 2018,Android,Android 9
+mobile,Samsung,J2 Core+,Android,Android 9
+mobile,Huawei,Enjoy 20s,Android,Android 10
+mobile,Samsung,Galaxy A3 2017,Android,Android 7.0
+mobile,BlackBerry,KEY2 LE,Android,Android 8.1.0
+mobile,Honor,100 Pro,Android,Android 14
+mobile,Asus,ROG Phone 8,Android,Android 14
+mobile,HTC,U11+,Android,Android 9
+mobile,Samsung,Galaxy A6+,Android,Android 10
+mobile,Sony,Xperia XA2 Ultra,Android,Android 9
+mobile,TCL,Stylus,Android,Android 12
+mobile,Huawei,Mate 20 X,Android,Android 10
+mobile,Honor,Magic4 Lite,Android,Android 13
+mobile,Sony,Xperia XA1 Plus,Android,Android 8.0.0
+mobile,Sony,Xperia 1,Android,Android 11
+mobile,Sony,Xperia XA Ultra,Android,Android 7.0
+mobile,Sony,Xperia XZ1,Android,Android 9
+mobile,Samsung,Galaxy J4+,Android,Android 9
+mobile,Sony,XPERIA 8 LITE,Android,Android 10
+mobile,TCL,408,Android,Android 12
+mobile,ZTE,A1,Android,Android 11
+mobile,BlackBerry,Evolve,Android,Android 8.1.0
+mobile,Alcatel,1V (2021),Android,Android 11
+mobile,itel,S18 Pro,Android,Android 12
+mobile,Vivo,V30 Lite,Android,Android 15
+mobile,Asus,Zenfone 11 Ultra,Android,Android 14
+mobile,Tecno,Spark Go 2022,Android,Android 11
+mobile,ZTE,Nubia Neo 2 5G,Android,Android 13
+mobile,Hot Pepper,Chilaca,Android,Android 12
+mobile,Sony,Xperia 5 II,Android,Android 12
+mobile,Samsung,Galaxy Note8,Android,Android 9
+mobile,Alcatel,3L (2020),Android,Android 10
+mobile,LG,K20,Android,Android 9
+mobile,OPPO,A3,Android,Android 8.1.0
+mobile,OPPO,F9,Android,Android 10
+mobile,Vivo,V21e 5G,Android,Android 13
+mobile,Asus,ZenFone Max Plus M1 (ZB570TL),Android,Android 8.1.0
+mobile,OPPO,A3,Android,Android 8.1.0
+mobile,Tecno,Spark 4 Lite,Android,Android 9
+mobile,Realme,C35,Android,Android 12
+mobile,TCL,20E,Android,Android 11
+mobile,OPPO,R17 Neo,Android,Android 9
+mobile,OPPO,A95 5G,Android,Android 13
+mobile,Xiaomi,Redmi Note 10 Pro,Android,Android 11
+mobile,Huawei,Mate 30 Pro,Android,Android 10
+mobile,Motorola,Moto Z Droid,Android,Android 8.0.0
+mobile,TCL,30 Z,Android,Android 12
+mobile,Samsung,Galaxy S20 5G,Android,Android 13
+mobile,LG,Journey LTE,Android,Android 10
+mobile,Vivo,X70 Pro+,Android,Android 14
+mobile,Xiaomi,Redmi Note 9 5G,Android,Android 12
+mobile,Xiaomi,12T Pro,Android,Android 14
+mobile,Asus,Zenfone 9,Android,Android 14
+mobile,Huawei,P10 Plus,Android,Android 9
+mobile,itel,A49 Play,Android,Android 12
+mobile,Vivo,Y85,Android,Android 8.1.0
+mobile,Huawei,P9 Premium Edition,Android,Android 8.0.0
+mobile,Infinix,Hot 11,Android,Android 11
+mobile,Sony,Xperia Pro-I,Android,Android 13
+mobile,Blackview,Oscal S60 Pro,Android,Android 11
+mobile,Nuu,A23,Android,Android 13
+mobile,OPPO,A5,Android,Android 8.1.0
+mobile,Huawei,Mate 10 Lite,Android,Android 8.0.0
+mobile,Xiaomi,Redmi Turbo 3,Android,Android 14
+mobile,Vivo,Y21G,Android,Android 13
+mobile,Samsung,Galaxy S6 Edge Plus,Android,Android 7.0
+mobile,Huawei,Honor V9 Play,Android,Android 8.1
+mobile,Infinix,Note 7 Lite,Android,Android 10
+mobile,Samsung,Galaxy Note 4,Android,Android 11
+mobile,Tecno,Pova 3,Android,Android 12
+mobile,Vivo,Y1s,Android,Android 10
+mobile,Realme,V11 5G,Android,Android 11
+mobile,Vivo,V20 SE,Android,Android 11
+mobile,Sony,Xperia 10,Android,Android 10
+mobile,Samsung,Galaxy S7,Android,Android 8.0.0
+mobile,LG,G8S ThinQ,Android,Android 12
+mobile,Xiaomi,Redmi Note 12 Pro+,Android,Android 14
+mobile,Tecno,Spark 3 Pro,Android,Android 10
+mobile,ZTE,Nubia Red Magic 6,Android,Android 12
+mobile,Asus,Zenfone Max Pro (M1) ZB601KL,Android,Android 10
+mobile,Vivo,Y73,Android,Android 13
+mobile,itel,Vision 5,Android,Android 12
+mobile,Vivo,iQOO 7,Android,Android 12
+mobile,LG,K50,Android,Android 10
+mobile,Sony,Xperia Z5,Android,Android 7.0
+mobile,ZTE,Blade A75 5G,Android,Android 13
+mobile,ZTE,Blade V40 Vita,Android,Android 11
+mobile,Samsung,Galaxy A8 (2016),Android,Android 8.0.0
+mobile,Huawei,Mate 20,Android,Android 9
+mobile,Infinix,Hot 10s,Android,Android 11
+mobile,Tecno,Pop 5,Android,Android 11
+mobile,Honor,90 GT,Android,Android 15
+mobile,Alcatel,3X (2020),Android,Android 10
+mobile,OPPO,Find X6 Pro,Android,Android 15
+mobile,Tecno,Spark 5,Android,Android 10
+mobile,Huawei,P Smart 2019,Android,Android 10
+mobile,ZTE,Axon 10 Pro,Android,Android 11
+mobile,itel,Vision 3 Plus,Android,Android 11
+mobile,Samsung,Galaxy Fold5,Android,Android 14
+mobile,Samsung,Galaxy J5 Pro,Android,Android 9
+mobile,OPPO,Reno12 (China),Android,Android 14
+mobile,Samsung,Galaxy A20,Android,Android 11
+mobile,Vivo,iQOO 10 Pro,Android,Android 9
+mobile,Samsung,Galaxy J5 (2016),Android,Android 7.1.1
+mobile,itel,A18,Android,Android 11
+mobile,Huawei,Mate 10,Android,Android 10
+mobile,LG,K30,Android,Android 7.1.2
+mobile,OPPO,Reno8 Pro+,Android,Android 14
+mobile,TCL,30E,Android,Android 12
+mobile,Samsung,Galaxy S24 Ultra,Android,Android 14
+mobile,OnePlus,Nord N100,Android,Android 11
+mobile,Vivo,iQOO Z9 Turbo,Android,Android 14
+mobile,Samsung,Galaxy Note 5,Android,Android 7.0
+mobile,Sony,Xperia 1,Android,Android 9
+mobile,Asus,Zenfone 3 ZE520KL,Android,Android 8.0.0
+mobile,Samsung,Galaxy J5 2017,Android,Android 9
+mobile,Honor,80 Pro,Android,Android 14
+mobile,TCL,408,Android,Android 12
+mobile,Tecno,Pova,Android,Android 10
+mobile,Sony,Xperia XZ,Android,Android 8.0.0
+mobile,Samsung,Galaxy Note 5,Android,Android 7.0
+mobile,LG,Aristo 2,Android,Android 8.1.0
+mobile,Wiko,VOIX,Android,Android 12
+mobile,OnePlus,OnePlus Ace 2 Pro,Android,Android 13
+mobile,Xiaomi,Black Shark 4 Pro,Android,Android 11
+mobile,Nokia,5,Android,Android 9
+mobile,Xiaomi,Redmi K50,Android,Android 12
+mobile,Samsung,Galaxy S20 Ultra 5G,Android,Android 13
+mobile,TCL,20L,Android,Android 11
+mobile,Sony,Xperia XA1,Android,Android 8.0.0
+mobile,LG,X Power 2,Android,Android 7.0
+mobile,Vernee,Active,Android,Android 13
+mobile,Alcatel,Essential Plus,Android,Android 8.1.0
+mobile,Realme,V30,Android,Android 12
+mobile,Sharp,AQUOS SENSE BASIC,Android,Android 8.0.0
+mobile,Vivo,Y12s,Android,Android 11
+mobile,LG,G6,Android,Android 8.0.0
+mobile,Samsung,Galaxy A02s,Android,Android 12
+mobile,Infinix,HOT5,Android,Android 7.0
+mobile,Vivo,Y72 5G,Android,Android 13
+mobile,Vivo,Y20G,Android,Android 11
+mobile,Vivo,Y20G,Android,Android 13
+mobile,Samsung,Galaxy J2 Pro (2018),Android,Android 7.1.1
+mobile,ZTE,Nubia Red Magic 9 Pro,Android,Android 14
+mobile,OPPO,A8,Android,Android 9
+mobile,LG,Velvet,Android,Android 13
+mobile,Sony,Xperia XZ1,Android,Android 9
+mobile,LG,G6,Android,Android 7.0
+mobile,TCL,10 pro,Android,Android 11
+mobile,AT&T,Motivate 4,Android,Android 13
+mobile,OPPO,Reno5 Pro 5G,Android,Android 13
+mobile,Infinix,Note 11S,Android,Android 11
+mobile,Infinix,Zero 8,Android,Android 10
+mobile,Huawei,Y9 2018,Android,Android 8.0.0
+mobile,Samsung,Galaxy A6,Android,Android 10
+mobile,Samsung,Galaxy S III,Android,Android 8.1.0
+mobile,LG,Stylo 3 Plus,Android,Android 7.0
+mobile,LG,X2 2019,Android,Android 9
+mobile,Asus,ROG Phone 5,Android,Android 13
+mobile,Sony,Xperia XA2,Android,Android 9
+mobile,Honor,X8,Android,Android 13
+mobile,Samsung,Galaxy M10,Android,Android 10
+mobile,Lava,Benco V60,Android,Android 11
+mobile,OPPO,A71 (2018),Android,Android 7.1.1
+mobile,Sharp,AQUOS SENSE6,Android,Android 13
+mobile,Xiaomi,Redmi Note 13 Pro+,Android,Android 14
+mobile,Vivo,Y01,Android,Android 12
+mobile,Samsung,Galaxy J3 Star,Android,Android 8.0.0
+mobile,Vivo,V17 Pro,Android,Android 12
+mobile,Vivo,Y77e,Android,Android 13
+mobile,ZTE,Blade V2020 Smart,Android,Android 10
+mobile,Sony,Xperia 10,Android,Android 10
+mobile,Huawei,P30 Pro,Android,Android 10
+mobile,Alcatel,1,Android,Android 8.1.0
+mobile,Wiko,View4,Android,Android 10
+mobile,Huawei,Y9 2019,Android,Android 9
+mobile,Lenovo,K13 Pro,Android,Android 12
+mobile,Samsung,Galaxy A50,Android,Android 11
+mobile,Vivo,Y30,Android,Android 12
+mobile,Samsung,Galaxy J2 Core,Android,Android 8.1.0
+mobile,ZTE,Optus X Tap 2,Android,Android 11
+mobile,BlackBerry,KEY2,Android,Android 8.1.0
+mobile,Sharp,S7,Android,Android 10
+mobile,Vivo,S1,Android,Android 12
+mobile,Vivo,S1,Android,Android 9
+mobile,Motorola,Moto Z2 Play,Android,Android 8.0.0
+mobile,Xiaomi,Poco F6,Android,Android 14
+mobile,Sony,Xperia 1,Android,Android 11
+mobile,Vivo,Z1 Pro,Android,Android 11
+mobile,Xiaomi,Redmi 9A,Android,Android 10
+mobile,OnePlus,7T,Android,Android 11
+mobile,Sony,Xperia L1,Android,Android 7.0
+mobile,Infinix,Smart 6 Plus,Android,Android 11
+mobile,Tecno,POP 3,Android,Android 8.1.0
+mobile,Samsung,Galaxy Fold,Android,Android 9
+mobile,Xiaomi,Civi 3,Android,Android 14
+mobile,Kyocera,Digno BX2,Android,Android 11
+mobile,Kyocera,Digno BX2,Android,Android 13
+mobile,ZTE,Nubia Neo,Android,Android 13
+mobile,Sony,Xperia 10 V,Android,Android 14
+mobile,Huawei,Honor 5c 2GB RAM,Android,Android 7.0
+mobile,LG,V30+,Android,Android 9
+mobile,Samsung,Galaxy S8 Active,Android,Android 9
+mobile,Motorola,Moto G4 Play,Android,Android 7.1.1
+mobile,LG,K20 V,Android,Android 7.0
+mobile,Tecno,Camon 16 Premier,Android,Android 11
+mobile,Realme,6 Pro,Android,Android 11
+mobile,Sony,Xperia 1 V,Android,Android 14
+mobile,Wiko,View5 Plus,Android,Android 10
+mobile,Realme,11 Pro+,Android,Android 14
+mobile,Realme,11 Pro+,Android,Android 13
+mobile,T-Mobile,REVVL 4,Android,Android 12
+mobile,itel,S16 Pro (Vision 2),Android,Android 10
+mobile,TCL,4X 5G,Android,Android 11
+mobile,Lenovo,Savior Gaming Phone,Android,Android 11
+mobile,LG,K30,Android,Android 7.1.2
+mobile,Alcatel,3V (2019),Android,Android 9
+mobile,Alcatel,3X,Android,Android 7.1.1
+mobile,Samsung,Galaxy A05s,Android,Android 13
+mobile,OPPO,F19,Android,Android 12
+mobile,OPPO,F19,Android,Android 11
+mobile,OPPO,F19,Android,Android 13
+mobile,Samsung,Galaxy S21 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 5G,Android,Android 14
+mobile,Samsung,Galaxy S21 5G,Android,Android 13
+mobile,Xiaomi,Redmi 13C,Android,Android 15
+mobile,Xiaomi,Redmi 13C,Android,Android 14
+mobile,Xiaomi,Redmi 13C,Android,Android 13
+mobile,Motorola,Moto G04,Android,Android 14
+mobile,Realme,Narzo 20,Android,Android 11
+mobile,Samsung,Galaxy A05s,Android,Android 14
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 13
+mobile,Samsung,Galaxy A14,Android,Android 14
+mobile,Samsung,Galaxy A14,Android,Android 13
+mobile,Samsung,Galaxy A05,Android,Android 14
+mobile,Samsung,Galaxy A05,Android,Android 13
+mobile,Vivo,Y12a,Android,Android 11
+mobile,Samsung,Galaxy S24,Android,Android 14
+mobile,OnePlus,Nord N20 SE,Android,Android 12
+mobile,OnePlus,Nord N20 SE,Android,Android 14
+mobile,Samsung,Galaxy A13,Android,Android 12
+mobile,Samsung,Galaxy A13,Android,Android 14
+mobile,Samsung,Galaxy A13,Android,Android 13
+mobile,Tecno,Camon 20 Pro 5G,Android,Android 13
+mobile,Vivo,Y02,Android,Android 12
+mobile,Realme,X50 Pro 5G,Android,Android 12
+mobile,Asus,ROG Phone 6,Android,Android 14
+mobile,Sharp,Aquos S3,Android,Android 10
+mobile,Sharp,Aquos S3,Android,Android 9
+mobile,Sharp,Aquos S3,Android,Android 11
+mobile,Samsung,Galaxy A14,Android,Android 14
+mobile,Samsung,Galaxy A14,Android,Android 13
+mobile,Samsung,Galaxy F14 5G,Android,Android 14
+mobile,Samsung,Galaxy F14 5G,Android,Android 13
+mobile,Tecno,Camon 20 Pro 5G,Android,Android 14
+mobile,Huawei,P10 Plus,Android,Android 7.0
+mobile,Realme,C51,Android,Android 14
+mobile,Realme,C51,Android,Android 13
+mobile,Realme,12 5G,Android,Android 15
+mobile,Realme,12 5G,Android,Android 14
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 10
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 12
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 11
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 13
+mobile,OPPO,A52,Android,Android 11
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 12
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 11
+mobile,LG,V30,Android,Android 9
+mobile,OPPO,F5,Android,Android 7.1.1
+mobile,Samsung,Galaxy J2 Core,Android,Android 8.1.0
+mobile,Wiko,View 2,Android,Android 8.0.0
+mobile,Samsung,Galaxy J7 (2016),Android,Android 8.1.0
+mobile,OPPO,Find X2 Pro,Android,Android 11
+mobile,TCL,10L,Android,Android 11
+mobile,Asus,ROG Phone 6,Android,Android 14
+mobile,OPPO,Find X2,Android,Android 12
+mobile,OPPO,Find X2,Android,Android 13
+mobile,General Mobile,GM 21 Plus,Android,Android 12
+mobile,Samsung,Galaxy S21 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 5G,Android,Android 13
+mobile,itel,S18,Android,Android 12
+mobile,Honor,X40,Android,Android 13
+mobile,Samsung,Galaxy A20,Android,Android 11
+mobile,Gionee,F103B,Android,Android 5.1
+mobile,OnePlus,Ace 3,Android,Android 15
+mobile,Sony,Xperia 10 II,Android,Android 12
+mobile,Vivo,X80 Lite 5G,Android,Android 14
+mobile,Samsung,Galaxy A6+,Android,Android 8.0.0
+mobile,Vivo,iQOO 8,Android,Android 13
+mobile,OnePlus,Ace 2V,Android,Android 14
+mobile,Sharp,Aquos U,Android,Android 7.0
+mobile,Sony,Xperia XZ2,Android,Android 10
+mobile,Vivo,Y33s 5G,Android,Android 12
+mobile,LG,Fortune 2,Android,Android 7.1.2
+mobile,BlackBerry,Blackberry Motion,Android,Android 8.1.0
+mobile,AT&T,Emblem Radiant,Android,Android 9
+mobile,Vivo,X60 Pro+,Android,Android 14
+mobile,Honor,Magic4 Pro,Android,Android 14
+mobile,Samsung,Galaxy M42 5G,Android,Android 13
+mobile,General Mobile,5 Plus,Android,Android 8.0.0
+mobile,Huawei,Honor 9X(China),Android,Android 10
+mobile,ZTE,Zmax 5G,Android,Android 12
+mobile,OPPO,A31,Android,Android 9
+mobile,Vivo,Y81,Android,Android 8.1.0
+mobile,Realme,GT 5G,Android,Android 14
+mobile,Sharp,Aquos R2,Android,Android 8.0.0
+mobile,Samsung,Galaxy S6 Edge Plus,Android,Android 7.0
+mobile,Vivo,X80,Android,Android 14
+mobile,Vivo,NEX 3 5G,Android,Android 10
+mobile,Xiaomi,Redmi K70E,Android,Android 15
+mobile,General Mobile,GM 21,Android,Android 11
+mobile,Xiaomi,Redmi Note 13R Pro,Android,Android 13
+mobile,ZTE,Axon 11 5G,Android,Android 10
+mobile,Tecno,Pop 4,Android,Android 10
+mobile,Samsung,Galaxy J5 2017,Android,Android 9
+mobile,LG,V30 ThinQ,Android,Android 8.0.0
+mobile,Huawei,Mate 20 Pro,Android,Android 11
+mobile,Cricket,Innovate E,Android,Android 12
+mobile,Alcatel,Axel,Android,Android 10
+mobile,Nokia,C100,Android,Android 12
+mobile,Sony,Xperia XA Ultra,Android,Android 7.0
+mobile,OnePlus,Open,Android,Android 14
+mobile,Sony,Xperia XA1,Android,Android 8.0.0
+mobile,Sony,Xperia 5,Android,Android 11
+mobile,LG,Zone 4,Android,Android 7.1.2
+mobile,Huawei,Honor 7A Pro,Android,Android 8.0.0
+mobile,Sharp,AQUOS R3,Android,Android 11
+mobile,OPPO,A9,Android,Android 10
+mobile,Huawei,Mate 20 Pro,Android,Android 10
+mobile,Vivo,iQOO Z6 Pro,Android,Android 14
+mobile,Realme,GT 6,Android,Android 14
+mobile,Infinix,Smart 6,Android,Android 11
+mobile,Infinix,Hot 10i,Android,Android 11
+mobile,Samsung,Galaxy J5 (2016),Android,Android 7.1.1
+mobile,Realme,GT Neo,Android,Android 13
+mobile,Huawei,Nova Young 4G LTE,Android,Android 6.0
+mobile,Vivo,Y17s,Android,Android 13
+mobile,Samsung,Galaxy J7 (2017),Android,Android 8.1.0
+mobile,Tecno,Spark 8P,Android,Android 11
+mobile,Huawei,Mate 10 Lite,Android,Android 8.0.0
+mobile,Kyocera,Duraforce Pro 3,Android,Android 14
+mobile,OPPO,A93,Android,Android 12
+mobile,Vivo,Y20G,Android,Android 12
+mobile,Sharp,AQUOS sense3,Android,Android 11
+mobile,Vivo,Y70s,Android,Android 10
+mobile,Samsung,Galaxy A8 Star,Android,Android 10
+mobile,Samsung,Galaxy S7,Android,Android 8.0.0
+mobile,Huawei,Nova,Android,Android 7.0
+mobile,Sony,Xperia XZ1 Compact,Android,Android 9
+mobile,Sony,Xperia 10 III,Android,Android 11
+mobile,Alcatel,3X (2020),Android,Android 10
+mobile,itel,P37 Pro,Android,Android 11
+mobile,Samsung,Galaxy J5 (2016),Android,Android 7.1.1
+mobile,Infinix,Smart 7,Android,Android 12
+mobile,TCL,20 R 5G,Android,Android 11
+mobile,Vivo,V7,Android,Android 8.1.0
+mobile,Huawei,Y5 2019,Android,Android 9
+mobile,Xiaomi,Redmi K60,Android,Android 14
+mobile,Huawei,Enjoy 7 Plus,Android,Android 7.0
+mobile,Samsung,Galaxy J3 2017,Android,Android 8.1.0
+mobile,ZTE,A73 5G,Android,Android 13
+mobile,LG,V20,Android,Android 8.0.0
+mobile,Honor,90 Lite,Android,Android 14
+mobile,Sony,Xperia XZ3,Android,Android 10
+mobile,TCL,Ion X,Android,Android 13
+mobile,Vivo,V27,Android,Android 15
+mobile,Samsung,Galaxy S21 5G,Android,Android 14
+mobile,Samsung,Galaxy S21 5G,Android,Android 13
+mobile,Samsung,Galaxy S20 5G,Android,Android 13
+mobile,Vivo,X90 Pro,Android,Android 14
+mobile,Vivo,X90 Pro,Android,Android 13
+mobile,Samsung,Galaxy Z Flip 5,Android,Android 14
+mobile,Samsung,Galaxy Z Flip 5,Android,Android 13
+mobile,Xiaomi,Mi 10T Pro 5G,Android,Android 10
+mobile,Xiaomi,Mi 10T Pro 5G,Android,Android 12
+mobile,Xiaomi,Mi 10T Pro 5G,Android,Android 11
+mobile,Xiaomi,Redmi Note 11s,Android,Android 11
+mobile,Xiaomi,Redmi Note 11s,Android,Android 13
+mobile,T-Mobile,Revvl 6x 5G,Android,Android 13
+mobile,Vivo,V27,Android,Android 14
+mobile,Vivo,V27,Android,Android 13
+mobile,Sharp,AQUOS R2,Android,Android 10
+mobile,Sharp,AQUOS R2,Android,Android 9
+mobile,Xiaomi,Redmi 12 5G,Android,Android 14
+mobile,Xiaomi,Redmi 12 5G,Android,Android 13
+mobile,Tecno,Spark 9,Android,Android 12
+mobile,Nothing,Phone (1),Android,Android 14
+mobile,Nothing,Phone (1),Android,Android 13
+mobile,Sharp,Aquos R8 Pro,Android,Android 14
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 14
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 13
+mobile,Realme,C53,Android,Android 13
+mobile,Xiaomi,Redmi 10C,Android,Android 12
+mobile,Xiaomi,Redmi 10C,Android,Android 11
+mobile,Xiaomi,Redmi 10C,Android,Android 13
+mobile,Xiaomi,Redmi A2+,Android,Android 13
+mobile,Samsung,Galaxy S22,Android,Android 14
+mobile,Samsung,Galaxy S22,Android,Android 13
+mobile,Realme,12 Pro,Android,Android 15
+mobile,Realme,12 Pro,Android,Android 14
+mobile,Samsung,Galaxy A54,Android,Android 14
+mobile,Samsung,Galaxy A54,Android,Android 13
+mobile,Samsung,Galaxy S20+ 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 FE 5G,Android,Android 13
+mobile,Infinix,Hot 20i,Android,Android 12
+mobile,Sharp,Aquos Sense 6s,Android,Android 11
+mobile,Sharp,Aquos Sense 6s,Android,Android 13
+mobile,Samsung,Galaxy A14 5G,Android,Android 14
+mobile,Samsung,Galaxy A14 5G,Android,Android 13
+mobile,OnePlus,6T,Android,Android 11
+mobile,Xiaomi,Poco C65,Android,Android 15
+mobile,Xiaomi,Poco C65,Android,Android 14
+mobile,Xiaomi,Poco C65,Android,Android 13
+mobile,OnePlus,12,Android,Android 15
+mobile,T-Mobile,Revvl 6x 5G,Android,Android 14
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 12
+mobile,Vivo,T2x,Android,Android 13
+mobile,Samsung,Galaxy F15,Android,Android 14
+mobile,Xiaomi,Redmi Note 12 4G,Android,Android 14
+mobile,Xiaomi,Redmi Note 12 4G,Android,Android 13
+mobile,OPPO,Reno8 Z,Android,Android 14
+mobile,OPPO,Reno8 Z,Android,Android 13
+mobile,Samsung,Galaxy A15,Android,Android 14
+mobile,Samsung,Galaxy A71,Android,Android 10
+mobile,Samsung,Galaxy A71,Android,Android 12
+mobile,Samsung,Galaxy A71,Android,Android 11
+mobile,Samsung,Galaxy A71,Android,Android 13
+mobile,Samsung,Galaxy S24,Android,Android 14
+mobile,Vivo,T2x,Android,Android 14
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 11
+mobile,Samsung,Galaxy A12 Nacho,Android,Android 13
+mobile,Vivo,Y56,Android,Android 14
+mobile,Vivo,Y56,Android,Android 13
+mobile,Samsung,Galaxy F22,Android,Android 12
+mobile,Samsung,Galaxy F22,Android,Android 11
+mobile,Samsung,Galaxy F22,Android,Android 13
+mobile,Xiaomi,Redmi A2+,Android,Android 13
+mobile,itel,A05s,Android,Android 13
+mobile,Fujitsu,Arrows We,Android,Android 12
+mobile,Fujitsu,Arrows We,Android,Android 14
+mobile,Vivo,V23e,Android,Android 13
+mobile,OPPO,A9 (2020),Android,Android 10
+mobile,OPPO,A9 (2020),Android,Android 12
+mobile,OPPO,A9 (2020),Android,Android 11
+mobile,Samsung,Galaxy S22+,Android,Android 12
+mobile,Samsung,Galaxy S22+,Android,Android 14
+mobile,Samsung,Galaxy S22+,Android,Android 13
+mobile,Samsung,Galaxy M35,Android,Android 14
+mobile,Vivo,V25 PRO 5G,Android,Android 14
+mobile,Samsung,Galaxy S8,Android,Android 8.0.0
+mobile,Samsung,Galaxy S8,Android,Android 7.0
+mobile,Samsung,Galaxy S8,Android,Android 9
+mobile,Realme,C11 2021,Android,Android 11
+mobile,Realme,C53,Android,Android 14
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 11
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 13
+mobile,Realme,Narzo 50A Prime,Android,Android 12
+mobile,Realme,Narzo 50A Prime,Android,Android 11
+mobile,Realme,Narzo 50A Prime,Android,Android 13
+mobile,Realme,5s,Android,Android 10
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 12
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 14
+mobile,Samsung,Galaxy S22 Ultra,Android,Android 13
+mobile,Realme,Narzo 30A,Android,Android 11
+mobile,Samsung,Galaxy A25,Android,Android 14
+mobile,Samsung,Galaxy S21 5G,Android,Android 13
+mobile,Samsung,Galaxy A06,Android,Android 14
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 10
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 12
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 11
+mobile,Samsung,Galaxy S20 FE 5G,Android,Android 13
+mobile,Sharp,AQUOS Sense 3,Android,Android 10
+mobile,Sharp,AQUOS Sense 3,Android,Android 9
+mobile,Sharp,AQUOS Sense 3,Android,Android 11
+mobile,Sony,Xperia 1 II,Android,Android 12
+mobile,Sony,Xperia 1 II,Android,Android 11
+mobile,Samsung,Galaxy S21 5G,Android,Android 12
+mobile,Samsung,Galaxy S21 5G,Android,Android 14
+mobile,Samsung,Galaxy M12,Android,Android 13
+mobile,OPPO,Reno4 Pro 5G,Android,Android 10
+mobile,OPPO,Reno4 Pro 5G,Android,Android 12
+mobile,Samsung,Galaxy A53 5G,Android,Android 12
+mobile,Samsung,Galaxy A53 5G,Android,Android 14
+mobile,Samsung,Galaxy A53 5G,Android,Android 13
+mobile,Vivo,Y03,Android,Android 14
+mobile,OPPO,Reno5 Pro 5G,Android,Android 13
+mobile,OnePlus,Nord CE4 Lite,Android,Android 15
+mobile,OnePlus,Nord CE4 Lite,Android,Android 14
+mobile,Samsung,Galaxy A14 5G,Android,Android 14
+mobile,Samsung,Galaxy A14 5G,Android,Android 13
+mobile,Infinix,Note 40 Pro 4G,Android,Android 14
+mobile,Samsung,Galaxy A13 5G,Android,Android 12
+mobile,Samsung,Galaxy A13 5G,Android,Android 11
+mobile,Samsung,Galaxy A13 5G,Android,Android 13
+mobile,Samsung,Galaxy A7 (2018),Android,Android 10
+mobile,Samsung,Galaxy A7 (2018),Android,Android 9
+mobile,Samsung,Galaxy S9+,Android,Android 8.0.0
+mobile,Samsung,Galaxy S9+,Android,Android 10
+mobile,Samsung,Galaxy S9+,Android,Android 9
+mobile,Vivo,V29,Android,Android 15
+mobile,Vivo,V29,Android,Android 14
+mobile,Samsung,Galaxy A24 4G,Android,Android 14
+mobile,Samsung,Galaxy A24 4G,Android,Android 13
+mobile,OPPO,A76,Android,Android 12
+mobile,LG,K12 Plus,Android,Android 8.1.0
+mobile,LG,K12 Plus,Android,Android 9
+mobile,Infinix,Note 30 Pro,Android,Android 14
+mobile,Infinix,Note 30 Pro,Android,Android 13
+mobile,Samsung,Galaxy A51 5G,Android,Android 12
+mobile,Samsung,Galaxy A51 5G,Android,Android 13
+mobile,Samsung,Galaxy J7 (2016),Android,Android 7.0
+mobile,Samsung,Galaxy J7 (2016),Android,Android 8.1.0
+mobile,itel,A50,Android,Android 14
+mobile,Samsung,Galaxy M12,Android,Android 12
+mobile,Samsung,Galaxy M12,Android,Android 11
+mobile,Samsung,Galaxy S24+,Android,Android 14
+mobile,Samsung,Galaxy Z Flip6,Android,Android 14
+mobile,OPPO,Reno7 5G,Android,Android 12
+mobile,OPPO,Reno7 5G,Android,Android 11
+mobile,OPPO,Reno7 5G,Android,Android 13
+mobile,Infinix,Hot 20,Android,Android 12
+mobile,OPPO,F11 Pro,Android,Android 11
+mobile,Samsung,Galaxy S24,Android,Android 14
+mobile,Xiaomi,Redmi Note 11s,Android,Android 11
+mobile,Xiaomi,Redmi Note 11s,Android,Android 13
+mobile,Samsung,Galaxy S22,Android,Android 12
+mobile,Samsung,Galaxy S22,Android,Android 14
+mobile,Samsung,Galaxy S22,Android,Android 13
+mobile,Samsung,Galaxy A32 5G,Android,Android 13
+mobile,Infinix,Smart 8 Plus,Android,Android 13
+mobile,Samsung,Galaxy A80,Android,Android 10
+mobile,Samsung,Galaxy A80,Android,Android 11
+mobile,Tecno,Phantom X,Android,Android 11
+mobile,Vivo,V27 Pro,Android,Android 14
+mobile,Samsung,Galaxy S21 Ultra 5G,Android,Android 14
+mobile,Samsung,Galaxy S21 Ultra 5G,Android,Android 13
+mobile,Samsung,M13 5G,Android,Android 12
+mobile,Samsung,M13 5G,Android,Android 14
+mobile,Samsung,Galaxy S22,Android,Android 14
+mobile,Samsung,Galaxy S22,Android,Android 13
+mobile,LG,Velvet,Android,Android 13
+mobile,OPPO,A76,Android,Android 11
+mobile,OPPO,A76,Android,Android 13
+mobile,OPPO,Reno12 F,Android,Android 15
+mobile,OPPO,Reno12 F,Android,Android 14
+mobile,Samsung,Galaxy S23,Android,Android 14
+tablet,Apple,iPad Pro 9.7 inch,iOS,iOS 15.2
+tablet,Apple,iPad Pro (12.9-inch) (4th generation),iOS,iOS 14.8.1
+tablet,Apple,iPad (8th gen),iOS,iOS 17.6.1
+tablet,Apple,iPad (8th gen),iOS,iOS 15.0.2
+tablet,Apple,iPad Air (4th gen),iOS,iOS 17.5.1
+tablet,Apple,iPad Mini 4,iOS,iOS 15.8.3
+tablet,Apple,iPad Air (3rd gen),iOS,iOS 18.1.1
+tablet,Apple,iPad Pro (11-inch) (3rd generation),iOS,iOS 18.1.1
+tablet,Apple,iPad,iOS,iOS 18.1.1
+tablet,Apple,iPad (9th gen),iOS,iOS 18.2.1
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.3
+tablet,Apple,iPad 5th gen,iOS,iOS 16.7.10
+tablet,Apple,iPad (9th gen),iOS,iOS 16.3.1
+tablet,Apple,iPad Pro 12.9 2nd gen,iOS,iOS 17.7.3
+tablet,Apple,iPad (9th gen),iOS,iOS 18.1.1
+tablet,Apple,iPad,iOS,iOS 18.0.1
+tablet,Apple,iPad Pro 10.5,iOS,iOS 17.7.2
+tablet,Apple,iPad mini (5th generation),iOS,iOS 17.2
+tablet,Apple,iPad Pro (12.9-inch) (4th generation),iOS,iOS 17.5.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.2.1
+tablet,Apple,iPad Air (5th gen),iOS,iOS 17.5.1
+tablet,Apple,iPad Air (5th gen),iOS,iOS 17.7.1
+tablet,Apple,iPad Pro (11-inch) (3rd generation),iOS,iOS 18.3
+tablet,Apple,iPad Pro (12.9-inch) (3rd generation),iOS,iOS 18.3
+tablet,Apple,iPad (9th gen),iOS,iOS 17.5.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.3
+tablet,Apple,iPad Pro (11-inch) (4th generation),iOS,iOS 17.6.1
+tablet,Apple,iPad mini (5th generation),iOS,iOS 17.6.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.1.1
+tablet,Apple,iPad (9th gen),iOS,iOS 17.7.2
+tablet,Apple,iPad Pro 12.9 2nd gen,iOS,iOS 17.7.4
+tablet,Apple,iPad 6th gen,iOS,iOS 16.3.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.2
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.1
+tablet,Apple,iPad Pro (12.9-inch) (4th generation),iOS,iOS 18.3
+tablet,Apple,iPad (9th gen),iOS,iOS 16.6.1
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.1.1
+tablet,Apple,iPad Pro (11-inch) (4th generation),iOS,iOS 18.3
+tablet,Apple,iPad (9th gen),iOS,iOS 17.7
+tablet,Apple,iPad (9th gen),iOS,iOS 17.4.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.2
+tablet,Apple,iPad (7th gen),iOS,iOS 17.6.1
+tablet,Apple,iPad (7th gen),iOS,iOS 15.4.1
+tablet,Apple,iPad Pro 10.5,iOS,iOS 17.7.5
+tablet,Apple,iPad 6th gen,iOS,iOS 17.7.5
+tablet,Apple,iPad 6th gen,iOS,iOS 16.6
+tablet,Apple,iPad (7th gen),iOS,iOS 15.6.1
+tablet,Apple,iPad mini (5th generation),iOS,iOS 18.0.1
+tablet,Apple,iPad 6th gen,iOS,iOS 15.5
+tablet,Apple,iPad Pro (12.9-inch) (5th generation),iOS,iOS 18.2
+tablet,Apple,iPad 6th gen,iOS,iOS 17.6.1
+tablet,Apple,iPad Pro (11-inch),iOS,iOS 18.3
+tablet,Apple,iPad Air (5th gen),iOS,iOS 18.3
+tablet,Apple,iPad,iOS,iOS 17.5.1
+tablet,Apple,iPad Pro 10.5,iOS,iOS 17.7.4
+tablet,Apple,iPad mini (5th generation),iOS,iOS 15.0.1
+tablet,Apple,iPad Pro 12.9 2nd gen,iOS,iOS 17.7.2
+tablet,Apple,iPad (7th gen),iOS,iOS 18.1.1
+tablet,Apple,iPad (9th gen),iOS,iOS 18.2
+tablet,Apple,iPad Pro (11-inch) (3rd generation),iOS,iOS 16.6
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.0.1
+tablet,Apple,iPad Pro (12.9-inch) (4th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad Pro (12.9-inch) (3rd generation),iOS,iOS 18.1
+tablet,Apple,iPad Pro (12.9-inch) (5th generation),iOS,iOS 18.1.1
+tablet,Apple,iPad mini (6th generation),iOS,iOS 17.5.1
+tablet,Apple,iPad Air (3rd gen),iOS,iOS 18.3.1
+tablet,Apple,iPad (9th gen),iOS,iOS 16.1
+tablet,Apple,iPad Air 2,iOS,iOS 15.8.2
+tablet,Apple,iPad 6th gen,iOS,iOS 17.7.2
+tablet,Apple,iPad Pro (12.9-inch) (3rd generation),iOS,iOS 18.3.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.1.1
+tablet,Apple,iPad Air (5th gen),iOS,iOS 18.0
+tablet,Apple,iPad (8th gen),iOS,iOS 17.5.1
+tablet,Apple,iPad Pro (11-inch) (4th generation),iOS,iOS 17.5.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.0
+tablet,Apple,iPad Air (4th gen),iOS,iOS 17.4
+tablet,Apple,iPad Pro (11-inch) (2nd generation),iOS,iOS 18.3.1
+tablet,Apple,iPad (9th gen),iOS,iOS 17.2
+tablet,Apple,iPad Pro (11-inch),iOS,iOS 18.3.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.3
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad Mini 4,iOS,iOS 15.8.2
+tablet,Apple,iPad Pro 10.5,iOS,iOS 15.6.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.3.1
+tablet,Apple,iPad (7th gen),iOS,iOS 16.6
+tablet,Apple,iPad (9th gen),iOS,iOS 16.6
+tablet,Apple,iPad (9th gen),iOS,iOS 15.6.1
+tablet,Apple,iPad mini (5th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad Pro 12.9 2nd gen,iOS,iOS 17.7.5
+tablet,Apple,iPad (9th gen),iOS,iOS 18.3.1
+tablet,Apple,iPad Pro (11-inch) (3rd generation),iOS,iOS 17.6.1
+tablet,Apple,iPad Air (5th gen),iOS,iOS 17.6.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 17.7.1
+tablet,Apple,iPad Pro (12.9-inch) (6th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad Pro (12.9-inch) (5th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad Air (3rd gen),iOS,iOS 15.5
+tablet,Apple,iPad (9th gen),iOS,iOS 16.1.1
+tablet,Apple,iPad Pro (12.9-inch) (3rd generation),iOS,iOS 18.0
+tablet,Apple,iPad Air (4th gen),iOS,iOS 18.2.1
+tablet,Apple,iPad Pro (11-inch) (3rd generation),iOS,iOS 18.3.1
+tablet,Apple,iPad (8th gen),iOS,iOS 18.3.1
+tablet,Apple,iPad (8th gen),iOS,iOS 16.6.1
+tablet,Apple,iPad Pro (11-inch) (4th generation),iOS,iOS 18.3.1
+tablet,Apple,iPad,iOS,iOS 18.3.1
+tablet,Apple,iPad Pro (11-inch) (4th generation),iOS,iOS 18.1.1
+tablet,Apple,iPad Pro (12.9-inch) (3rd generation),iOS,iOS 18.1.1
+tablet,Apple,iPad (9th gen),iOS,iOS 15.6
+tablet,Apple,iPad 6th gen,iOS,iOS 17.7.4
+tablet,Apple,iPad (7th gen),iOS,iOS 13.4.1
+tablet,Apple,iPad (7th gen),iOS,iOS 14.8.1
+tablet,Apple,iPad Air (5th gen),iOS,iOS 18.3.1
+tablet,Apple,iPad,iOS,iOS 18.3
+tablet,Apple,iPad (9th gen),iOS,iOS 18.0.1
+tablet,Apple,iPad (8th gen),iOS,iOS 15.6.1
+tablet,Apple,iPad 5th gen,iOS,iOS 16.7.7
+tablet,Apple,iPad (9th gen),iOS,iOS 15.4
+tablet,Apple,iPad Air (4th gen),iOS,iOS 17.4.1
+tablet,Apple,iPad Pro (11-inch) (2nd generation),iOS,iOS 17.7.1
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.2
+tablet,Apple,iPad,iOS,iOS 18.2.1
+tablet,Apple,iPad (7th gen),iOS,iOS 17.5.1
+tablet,Apple,iPad Pro (11-inch) (2nd generation),iOS,iOS 17.6.1
+tablet,Apple,iPad Air (4th gen),iOS,iOS 17.6.1
+tablet,Apple,iPad Pro (11-inch) (2nd generation),iOS,iOS 18.1.1
+tablet,Apple,iPad (8th gen),iOS,iOS 16.5.1
+tablet,Apple,iPad (9th gen),iOS,iOS 17.6.1
+tablet,Apple,iPad (9th gen),iOS,iOS 18.3
+tablet,Apple,iPad Pro 9.7 inch,iOS,iOS 16.7.10
+tablet,Apple,iPad mini (6th generation),iOS,iOS 18.2.1
+tablet,Apple,iPad Air 2,iOS,iOS 15.8.3
+tablet,Apple,iPad (8th gen),iOS,iOS 16.2
+tablet,Apple,iPad Air (5th gen),iOS,iOS 18.1.1
+tablet,Apple,iPad (7th gen),iOS,iOS 16.4.1
+tablet,Apple,iPad Pro 10.5,iOS,iOS 17.7.3
+tablet,Apple,iPad 6th gen,iOS,iOS 16.1.1
+tablet,Apple,iPad mini (5th generation),iOS,iOS 18.1.1
+mobile,Apple,iPhone 14 Pro,iOS,iOS 18.2
+mobile,Apple,iPhone 6s,iOS,iOS 15.3.1
+mobile,Apple,iPhone 11 Pro,iOS,iOS 18.2
+mobile,Apple,iPhone 13,iOS,iOS 18.2
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 18.0
+mobile,Apple,iPhone 13,iOS,iOS 18.0
+mobile,Apple,iPhone 8,iOS,iOS 16.1.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 18.1
+mobile,Apple,iPhone 11 Pro,iOS,iOS 18.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 16.1.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.0.3
+mobile,Apple,iPhone 6s Plus,iOS,iOS 14.4.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 18.1
+mobile,Apple,iPhone 6s,iOS,iOS 15.8
+mobile,Apple,iPhone 11,iOS,iOS 16.6.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 18.0.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 18.0.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.0.1
+mobile,Apple,iPhone,iOS,iOS 18.0.1
+mobile,Apple,iPhone 13,iOS,iOS 18.0.1
+mobile,Apple,iPhone 6s,iOS,iOS 14.4
+mobile,Apple,iPhone 6s,iOS,iOS 15.8.2
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 16.3.1
+mobile,Apple,iPhone 14,iOS,iOS 18.2
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.5
+mobile,Apple,iPhone XR,iOS,iOS 17.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.3
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 16.0.2
+mobile,Apple,iPhone SE (3rd generation),iOS,iOS 16.0.2
+mobile,Apple,iPhone XR,iOS,iOS 18.2
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 18.2
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.0
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 18.2
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.2
+mobile,Apple,iPhone 12 Pro,iOS,iOS 16.1.2
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 16.4.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.6
+mobile,Apple,iPhone 8 Plus,iOS,iOS 16.7.4
+mobile,Apple,iPhone 11,iOS,iOS 16.4
+mobile,Apple,iPhone 13 mini,iOS,iOS 18.1.1
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.8.2
+mobile,Apple,iPhone 12 mini,iOS,iOS 17.6.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 18.2
+mobile,Apple,iPhone 14 Plus,iOS,iOS 18.2
+mobile,Apple,iPhone X,iOS,iOS 16.0
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.2
+mobile,Apple,iPhone 15,iOS,iOS 18.2
+mobile,Apple,iPhone 12,iOS,iOS 18.2
+mobile,Apple,iPhone XS Max,iOS,iOS 18.2
+mobile,Apple,iPod touch (7th generation),iOS,iOS 15.8.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.0.1
+mobile,Apple,iPhone 11 Pro,iOS,iOS 18.0.1
+mobile,Apple,iPhone 12,iOS,iOS 18.0.1
+mobile,Apple,iPhone SE (3rd generation),iOS,iOS 18.2.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 16.1
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.7.9
+mobile,Apple,iPhone 8 Plus,iOS,iOS 16.7.7
+mobile,Apple,iPhone 6s,iOS,iOS 15.6.1
+mobile,Apple,iPhone 11,iOS,iOS 17.2.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 18.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.7
+mobile,Apple,iPhone XS Max,iOS,iOS 17.7
+mobile,Apple,iPhone 11,iOS,iOS 17.7
+mobile,Apple,iPhone XR,iOS,iOS 16.1
+mobile,Apple,iPhone 13,iOS,iOS 16.5
+mobile,Apple,iPhone XR,iOS,iOS 17.7.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.7.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 15.6
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 16.3
+mobile,Apple,iPhone X,iOS,iOS 16.7.8
+mobile,Apple,iPhone 11 Pro,iOS,iOS 15.4.1
+mobile,Apple,iPhone 7,iOS,iOS 15.7.3
+mobile,Apple,iPhone 7,iOS,iOS 15.7.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 16.2
+mobile,Apple,iPhone 13,iOS,iOS 17.5.1
+mobile,Apple,iPhone 8,iOS,iOS 15.1
+mobile,Apple,iPhone XS Max,iOS,iOS 15.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.4.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.4.1
+mobile,Apple,iPhone 14,iOS,iOS 17.4.1
+mobile,Apple,iPhone 11,iOS,iOS 17.4.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 15.1
+mobile,Apple,iPhone 7,iOS,iOS 15.8.3
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.8.3
+mobile,Apple,iPhone 6s,iOS,iOS 15.8.3
+mobile,Apple,iPhone 6s Plus,iOS,iOS 15.8.3
+mobile,Apple,iPhone XR,iOS,iOS 18.2.1
+mobile,Apple,iPhone 12,iOS,iOS 18.2.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.2.1
+mobile,Apple,iPhone 15,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14,iOS,iOS 18.1.1
+mobile,Apple,iPhone 12,iOS,iOS 18.1.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 15,iOS,iOS 18.1.1
+mobile,Apple,iPhone 14 Pro,iOS,iOS 18.1.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 15 Plus,iOS,iOS 18.1.1
+mobile,Apple,iPhone 14 Plus,iOS,iOS 18.1.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 18.1.1
+mobile,Apple,iPhone 13 mini,iOS,iOS 18.2.1
+mobile,Apple,iPhone 11 Pro,iOS,iOS 18.1.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 15 Pro,iOS,iOS 18.1.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.1.1
+mobile,Apple,iPhone,iOS,iOS 18.1.1
+mobile,Apple,iPhone 13,iOS,iOS 18.1.1
+mobile,Apple,iPhone XS Max,iOS,iOS 18.1.1
+mobile,Apple,iPhone 11,iOS,iOS 18.1.1
+mobile,Apple,iPhone XR,iOS,iOS 15.1
+mobile,Apple,iPhone XS,iOS,iOS 17.6.1
+mobile,Apple,iPhone 14 Pro,iOS,iOS 17.6.1
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 17.6.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone 15 Plus,iOS,iOS 17.6.1
+mobile,Apple,iPhone 14 Plus,iOS,iOS 17.6.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 17.6.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone 15 Pro,iOS,iOS 17.6.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 17.6.1
+mobile,Apple,iPhone 13,iOS,iOS 17.6.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.3
+mobile,Apple,iPhone 14 Pro,iOS,iOS 18.3
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 18.3
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 18.3
+mobile,Apple,iPhone 15 Plus,iOS,iOS 18.3
+mobile,Apple,iPhone 12 Pro,iOS,iOS 18.3
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.3
+mobile,Apple,iPhone,iOS,iOS 18.3
+mobile,Apple,iPhone 11,iOS,iOS 18.3
+mobile,Apple,iPhone 11,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14 Pro,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14 Plus,iOS,iOS 18.2.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14,iOS,iOS 18.2.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 18.2.1
+mobile,Apple,iPhone 15 Pro,iOS,iOS 18.2.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 18.2.1
+mobile,Apple,iPhone,iOS,iOS 18.2.1
+mobile,Apple,iPhone 13,iOS,iOS 18.2.1
+mobile,Apple,iPhone XR,iOS,iOS 16.6.1
+mobile,Apple,iPhone 8,iOS,iOS 16.7.10
+mobile,Apple,iPhone X,iOS,iOS 16.7.10
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.1.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.1.1
+mobile,Apple,iPhone 13,iOS,iOS 16.6
+mobile,Apple,iPhone XS Max,iOS,iOS 16.6
+mobile,Apple,iPhone XR,iOS,iOS 17.6.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone XS Max,iOS,iOS 15.5
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 16.1.2
+mobile,Apple,iPhone XS,iOS,iOS 18.2
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 18.2
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.7
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 18.2
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.3
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.4.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 15.3.1
+mobile,Apple,iPhone 12,iOS,iOS 18.0
+mobile,Apple,iPhone,iOS,iOS 18.0
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.7.8
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.7.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.7.1
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 18.0.1
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 16.0.2
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 16.0
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.3.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.4
+mobile,Apple,iPhone XS,iOS,iOS 17.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.1
+mobile,Apple,iPhone 11,iOS,iOS 15.6
+mobile,Apple,iPhone 13 Pro,iOS,iOS 17.1.2
+mobile,Apple,iPhone XS Max,iOS,iOS 17.6.1
+mobile,Apple,iPhone 7 Plus,iOS,iOS 14.6
+mobile,Apple,iPhone 11 Pro,iOS,iOS 17.1.1
+mobile,Apple,iPhone 15 Pro Max,iOS,iOS 17.7
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 14.6
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 15.4
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.7.2
+mobile,Apple,iPhone 6s Plus,iOS,iOS 15.7.6
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 16.2
+mobile,Apple,iPhone 11,iOS,iOS 17.7.2
+mobile,Apple,iPhone 6s,iOS,iOS 14.6
+mobile,Apple,iPhone 8 Plus,iOS,iOS 15.7
+mobile,Apple,iPhone XS Max,iOS,iOS 16.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 17.4
+mobile,Apple,iPhone 12 Pro,iOS,iOS 17.4
+mobile,Apple,iPhone X,iOS,iOS 14.2
+mobile,Apple,iPhone 13 Pro,iOS,iOS 17.6
+mobile,Apple,iPhone 11,iOS,iOS 14.2
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.7.5
+mobile,Apple,iPhone 8 Plus,iOS,iOS 16.7.2
+mobile,Apple,iPhone 8 Plus,iOS,iOS 14.7.1
+mobile,Apple,iPhone SE (3rd generation),iOS,iOS 18.0.1
+mobile,Apple,iPhone XR,iOS,iOS 17.3.1
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 16.6
+mobile,Apple,iPhone 11 Pro,iOS,iOS 17.7.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.4.1
+mobile,Apple,iPhone 12,iOS,iOS 17.7
+mobile,Apple,iPhone XR,iOS,iOS 16.1.2
+mobile,Apple,iPhone XS Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 17.5.1
+mobile,Apple,iPhone SE (3rd generation),iOS,iOS 17.5.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.1.2
+mobile,Apple,iPhone 12 Pro,iOS,iOS 16.1.1
+mobile,Apple,iPhone X,iOS,iOS 16.1.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.2
+mobile,Apple,iPhone XS Max,iOS,iOS 16.5.1
+mobile,Apple,iPhone 8 Plus,iOS,iOS 15.5
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 17.0.3
+mobile,Apple,iPhone 7 Plus,iOS,iOS 15.6.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 16.3.1
+mobile,Apple,iPhone 12 Pro,iOS,iOS 16.3.1
+mobile,Apple,iPhone XS Max,iOS,iOS 15.3.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 18.1
+mobile,Apple,iPhone 13,iOS,iOS 17.4.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 16.1.1
+mobile,Apple,iPhone 13,iOS,iOS 16.1.1
+mobile,Apple,iPhone XS Max,iOS,iOS 16.1.1
+mobile,Apple,iPhone 8,iOS,iOS 16.7.8
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 15.2.1
+mobile,Apple,iPhone X,iOS,iOS 15.2.1
+mobile,Apple,iPhone SE (2nd generation),iOS,iOS 17.5
+mobile,Apple,iPhone 11,iOS,iOS 17.5
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.4.1
+mobile,Apple,iPhone XR,iOS,iOS 17.4.1
+mobile,Apple,iPhone 8,iOS,iOS 16.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 16.6
+mobile,Apple,iPhone 12 Pro,iOS,iOS 17.5.1
+mobile,Apple,iPhone 13 Pro,iOS,iOS 17.5.1
+mobile,Apple,iPhone 12,iOS,iOS 17.5.1
+mobile,Apple,iPhone XS,iOS,iOS 17.5.1
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 16.3.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 16.3.1
+mobile,Apple,iPhone XS,iOS,iOS 16.3.1
+mobile,Apple,iPhone 13 Pro Max,iOS,iOS 17.3.1
+mobile,Apple,iPhone 13,iOS,iOS 18.1
+mobile,Apple,iPhone 12 Pro Max,iOS,iOS 18.2.1
+mobile,Apple,iPhone XS,iOS,iOS 18.2.1
+mobile,Apple,iPhone XS Max,iOS,iOS 18.2.1
+mobile,Apple,iPhone 14,iOS,iOS 18.3
+mobile,Apple,iPhone 14 Plus,iOS,iOS 18.3
+mobile,Apple,iPhone 12 mini,iOS,iOS 18.3
+mobile,Apple,iPhone XS,iOS,iOS 18.3
+mobile,Apple,iPhone 14 Pro Max,iOS,iOS 18.1
+mobile,Apple,iPhone 15,iOS,iOS 18.1
+mobile,Apple,iPhone 11,iOS,iOS 18.1
+mobile,Apple,iPhone 11,iOS,iOS 17.3.1
+mobile,Apple,iPhone 7,iOS,iOS 15.7
+mobile,Apple,iPhone 7,iOS,iOS 15.7.9
+mobile,Apple,iPhone 7,iOS,iOS 15.8
+mobile,Apple,iPhone 11 Pro Max,iOS,iOS 16.4.1
+mobile,Apple,iPhone 8,iOS,iOS 16.4.1
+mobile,Apple,iPhone 13,iOS,iOS 16.4.1
+mobile,Apple,iPhone 8,iOS,iOS 16.7.4
+mobile,Apple,iPhone X,iOS,iOS 16.7.4
