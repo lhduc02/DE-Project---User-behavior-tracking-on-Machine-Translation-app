@@ -8,4 +8,4 @@ Project này thực hiện những nhiệm vụ sau:
 * Sử dụng Streamlit để tạo trang web đơn giản giúp thực hiện tính năng Sequence (chuỗi hành vi) của user trên ứng dụng
 * Sử dụng Apache Superset để trực quan hóa dữ liệu đã lưu trữ tại StarRocks
 
-**Công nghệ sử dụng:** Python (Pandas, Streamlit), Apache Kafka, Apache Superset, StarRocks
+**Công nghệ sử dụng:** Python (Pandas, Streamlit, pymysql), Apache Kafka, Apache Superset, StarRocks
