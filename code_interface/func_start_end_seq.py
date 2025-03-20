@@ -1,7 +1,7 @@
 import pandas as pd
 
 def start_end_seq(df, set_user_id, start_item, end_item):
-    # Define start_index and end_index
+    # Tính toán start_index và end_index
     if start_item == "Select item":
         min_ts = df.groupby("user_id")["timestamp"].min().reset_index()
     else:
