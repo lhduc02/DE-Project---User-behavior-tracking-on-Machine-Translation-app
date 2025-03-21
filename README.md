@@ -9,3 +9,6 @@ Project này thực hiện những nhiệm vụ sau:
 * Sử dụng Apache Superset để trực quan hóa dữ liệu đã lưu trữ tại StarRocks
 
 **Công nghệ sử dụng:** Python (Pandas, Streamlit, pymysql), Apache Kafka, StarRocks, Apache Superset
+
+**Tài liệu tracking event:** https://docs.google.com/spreadsheets/d/1Z3Cf5SUZbcy8ECGdDpDUN1icN1waC2usN8u4DPBVW5M/
+

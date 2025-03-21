@@ -12,5 +12,4 @@ def connect_to_starrocks():
     conn = pymysql.connect(
         host=HOST, port=PORT, user=USER, password=PASSWORD, database=DATABASE
     )
-    
     return conn
