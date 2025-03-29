@@ -31,9 +31,11 @@ if choice == "🔤 Translation":
     with a2:
         language_destination = st.selectbox("Select target language:", languages, index=1)
 
+
     with b1:
         if st.button("Voice"):
             pass
+
     with b3:
         if st.button("Translate"):
             pass
