@@ -2,7 +2,7 @@ from kafka.admin import KafkaAdminClient, NewTopic
 
 # Thông tin Kafka
 KAFKA_BROKER = "localhost:9092"
-TOPIC_LIST = ["topic_1", "topic_2"]
+TOPIC_LIST = ["topic_1", "topic_2", "topic_3"]
 
 # Kết nối Kafka Admin
 admin_client = KafkaAdminClient(bootstrap_servers=KAFKA_BROKER)
