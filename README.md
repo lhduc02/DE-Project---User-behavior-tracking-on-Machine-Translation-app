@@ -7,8 +7,10 @@ Project này thực hiện những nhiệm vụ sau:
 * Sử dụng kho dữ liệu StarRocks để lưu trữ dữ liệu được kéo về từ Kafka.
 * Sử dụng Streamlit để tạo trang web đơn giản giúp thực hiện tính năng Sequence (chuỗi hành vi) của user trên ứng dụng
 * Sử dụng Apache Superset để trực quan hóa dữ liệu đã lưu trữ tại StarRocks
+* Sử dụng Prometheus/Grafana để giám sát, cảnh báo
+* Sử dụng Locust để đánh giá hiệu năng của hệ thống
 
-**Công nghệ sử dụng:** Python (Pandas, Streamlit, pymysql), Apache Kafka, StarRocks, Apache Superset
+**Công nghệ sử dụng:** Python (Pandas, Streamlit, pymysql, Locust), Apache Kafka, StarRocks, Apache Superset, Prometheus/Grafana
 
 **Tài liệu tracking event:** https://docs.google.com/spreadsheets/d/1Z3Cf5SUZbcy8ECGdDpDUN1icN1waC2usN8u4DPBVW5M/
 
