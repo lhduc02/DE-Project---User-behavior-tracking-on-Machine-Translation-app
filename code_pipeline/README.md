@@ -15,16 +15,10 @@ Thông tin đăng nhập của StarRocks
 * username: "root"
 * password: ""    #Không có mật khẩu
 
-## 1.2. kafka-docker-compose
-Trên terminal, vào folder chứa kafka-docker-compose.yml
+## 1.2. Chạy docker-compose để khởi tạo Kafka, Prometheus, Grafana
+Trên terminal, vào folder chứa docker-compose.yml
 ```cmd
-sudo docker-compose -f kafka-docker-compose.yml up -d
-```
-
-## 1.3. monitoring-docker-compose
-Trên terminal, vào folder chứa monitoring-docker-compose.yml
-```cmd
-sudo docker-compose -f monitoring-docker-compose.yml up -d
+sudo docker-compose up -d
 ```
 
 ---
@@ -43,3 +37,16 @@ python -u /path/to/kafka_consumer.py
 ```cmd
 python -u /path/to/kafka_producer.py
 ```
+
+## 2.4. Chạy Airflow
+* Chạy airflow server
+```cmd
+airflow webserver --port 8081
+```
+
+* Chạy airflow scheduler
+```cmd
+airflow scheduler
+```
+
+
