@@ -9,7 +9,7 @@ consumer_config = {
 
 # Tạo Kafka Consumer
 consumer = Consumer(consumer_config)
-consumer.subscribe(["topic_1", "topic_2"])
+consumer.subscribe(["topic_1", "topic_2", "topic_3"])
 
 print("Listening for messages...")
 

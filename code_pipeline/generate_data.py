@@ -44,7 +44,7 @@ def gen_geography():
     file_path_geography = os.path.join(script_dir, "..", "data", "data_geography.csv")
     # Đọc file
     df_geography = pd.read_csv(file_path_geography)
-    # Tạo ngẫu nhiên một số từ 1 đến 232 và trả về user properties tương ứng
+    # Tạo ngẫu nhiên một số từ 1 đến 231 và trả về user properties tương ứng
     random_number = random.randint(1, 231)
     geo_user = df_geography.loc[random_number].to_list()
     # Return theo thứ tự: geo_continent, geo_sub_continent, geo_country
@@ -53,4 +53,12 @@ def gen_geography():
 
 # Generate event_name
 def gen_event_name():
-    return {"event_name": random.choice(["click", "purchase", "view"])}
+    ev1 = ["ev1_ad_click", "ev1_ad_show", "ev2_user_go_to_IAP_screen", "ev1_in_app_purchase"]
+    ev2 = ["ev2_session_start", "ev2_screen_view", "ev2_notification_receive", "ev2_notification_click", "ev2_user_engagement", "ev2_user_rate_app", "ev2_app_remove"]
+    ev3 = ["ev3_user_speech2text", "ev3_user_text2speech", "ev3_user_copy_translation", "ev3_machine_text2speech", "ev3_machine_speech2text"]
+    return {"event_name": random.choice(ev1+ev2+ev3)}
+
+# ev1 là những event liên quan đến IAA, IAP
+# ev2 là những event liên quan đến trải nghiệm của user trên app
+# ev3 là những event liên quan đến việc user sử dụng các tính năng trong app
+
