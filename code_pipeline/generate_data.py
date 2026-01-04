@@ -28,7 +28,7 @@ def gen_user_id():
 # Generate data device
 def gen_device():
     # Tạo đường dẫn tuyệt đối đến data_device.csv
-    file_path_device = os.path.join(script_dir, "..", "data", "data_device.csv")
+    file_path_device = os.path.join(script_dir, "data_country_device", "data_device.csv")
     # Đọc file
     df_device = pd.read_csv(file_path_device)
     # Tạo ngẫu nhiên một số từ 1 đến 1400 và trả về user properties tương ứng
@@ -41,7 +41,7 @@ def gen_device():
 # Generate data geography
 def gen_geography():
     # Tạo đường dẫn tuyệt đối đến data_geography.csv
-    file_path_geography = os.path.join(script_dir, "..", "data", "data_geography.csv")
+    file_path_geography = os.path.join(script_dir, "data_country_device", "data_geography.csv")
     # Đọc file
     df_geography = pd.read_csv(file_path_geography)
     # Tạo ngẫu nhiên một số từ 1 đến 231 và trả về user properties tương ứng
